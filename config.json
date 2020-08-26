@@ -1,0 +1,15 @@
+{
+  "Login": {
+      "user_name" : "",
+      "user_password" : "",
+      "user_cookies" :{"ki_t": "1596232916887%3B1596232916887%3B1596232916887%3B1%3B1", "_fbp": "fb.1.1596232916064.554409096", "__utmb": "235335808.1.10.1596232912", "login_bc": "1", "__utmv": "235335808.|3=plan=normal=1^5=gender=male=1^6=user_id=33324042=1^11=lang=zh=1", "__utmc": "235335808", "c_type": "26", "b_type": "1", "a_type": "0", "__utmz": "235335808.1596232912.1.1.utmcsr=accounts.pixiv.net|utmccn=(referral)|utmcmd=referral|utmcct=/login", "yuid_b": "EQA4VgU", "_gat": "1", "__cfduid": "d6ba69ce1b7e176ff71739dd4449a01661596232912", "device_token": "dca43352bb1501ffa87a87a5190d5db3", "PHPSESSID": "33324042_FtyR5vktJwa42aO10NLJ3gQYZXgLJaGh", "_gid": "GA1.2.216418219.1596232890", "__utma": "235335808.731519508.1596232890.1596232912.1596232912.1", "privacy_policy_agreement": "0", "first_visit_datetime_pc": "2020-08-01+07%3A01%3A52", "p_ab_id_2": "9", "ki_r": "", "_ga": "GA1.2.731519508.1596232890", "p_ab_d_id": "750150235", "__utmt": "1", "p_ab_id": "5"}
+ },
+  "Setting": {
+      "ban_status" : "True",
+      "ban_word" : ["SM","異物挿入","性器破壊","リョナ","陵辱","敗北","調教","拷問","R18-G","重口","拡張","全頭マスク", "Prolapse","触手","腐乱", "尸体", "腐敗", "蛆","猎奇", "脱糞", "スカトロ","人體改造", "丧尸", "变异", "死体","屍姦","食人", "怪物くん", "异物"],
+      "rk_thread" : 64,
+      "download_thread" : 16,
+      "screening_criteria" : 0.1,
+      "work_thread" : 64
+  }
+}
